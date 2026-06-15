@@ -1,5 +1,6 @@
-/* base.css — conteúdo limpo
-  Adicione variáveis e regras compartilhadas aqui.
-*/
+/* base.css — conteúdo limpo*/
 
-/* Regras removidas para limpeza. */
+body{
+    font-family: var(--fonte-principal);
+    color: #333333;
+}
