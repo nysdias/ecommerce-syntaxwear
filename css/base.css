@@ -11,6 +11,11 @@ main{
 	margin: 0 auto;
 }
 
+@media (max-widht:1280px) {
+	main{
+		padding: 0.625rem;
+	}
+}
 .btn{
 	font-size: 1.25rem;
 	width: 161px;
@@ -40,8 +45,4 @@ main{
 	border-color: #6329A2;
 }
 
-.footer-copy{
-	font-size: 1.25rem;
-	text-align: center;
-	padding: 20px 0;
-}
+
